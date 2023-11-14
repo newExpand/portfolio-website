@@ -10,6 +10,12 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: "Expand 포트폴리오",
     description: "포트폴리오 모음 웹사이트 입니다.",
+    icons: {
+        icon: {
+            url: "/expand-logo.png",
+            href: "/expand-logo.png",
+        },
+    },
 };
 
 export default function RootLayout({
