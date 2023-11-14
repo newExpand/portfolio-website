@@ -60,7 +60,7 @@ const HeroContent = () => {
                 className="w-full h-full flex justify-center items-center z-[-1] absolute md:relative"
             >
                 <Image
-                    src="/mainIconsDark.svg"
+                    src="/mainIconsdark.svg"
                     alt=""
                     width={650}
                     height={650}
